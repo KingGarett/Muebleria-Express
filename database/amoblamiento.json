@@ -1,0 +1,36 @@
+{
+    "productos": [
+        {
+            "nombre": "Ropero Perch",
+            "imagen": "ropero"
+        },
+        {
+            "nombre": "Ropero Calz",
+            "imagen": "ropero1"
+        },        
+        {
+            "nombre": "Mesa de luz 122",
+            "imagen": "mesadeluz"
+        },
+        {
+            "nombre": "Mesa de liz 447",
+            "imagen":"mesadeluz1"
+        },
+        {
+            "nombre": "Mesa y Sillas parque",
+            "imagen": "mesaysillas"
+        },
+        {
+            "nombre": "Mesa y Sillas hogar",
+            "imagen": "mesaysillas1"
+        },
+        {
+            "nombre": "Sillas familia",
+            "imagen": "sillas"
+        },
+        {
+            "nombre": "Sillas MalBras",
+            "imagen": "sillas1"
+        }
+    ]   
+}

@@ -1,0 +1,36 @@
+{
+    "productos": [
+        {
+            "nombre": "Sommier Piero",
+            "imagen": "sommier"
+        },
+        {
+            "nombre": "Sommier Rey",
+            "imagen": "sommier1"
+        },        
+        {
+            "nombre": "Sommier Trasaca",
+            "imagen": "sommier2"
+        },
+        {
+            "nombre": "Sommier Buchi",
+            "imagen": "sommier3"
+        },
+        {
+            "nombre": "Sommier Evangelio",
+            "imagen": "sommier4"
+        },
+        {
+            "nombre": "Colchon Trust",
+            "imagen": "colchon"
+        },
+        {
+            "nombre": "Colchon False",
+            "imagen": "colchon1"
+        },
+        {
+            "nombre": "Colchon Pending",
+            "imagen": "colchon2"
+        }
+    ]   
+}

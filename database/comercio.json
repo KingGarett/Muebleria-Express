@@ -1,0 +1,28 @@
+{
+    "productos": [
+        {
+            "nombre": "Kretz c/impresora",
+            "imagen": "kretzimpresora"
+        },
+        {
+            "nombre": "Kretz c/torre",
+            "imagen": "balanza"
+        },        
+        {
+            "nombre": "Balanza digital",
+            "imagen": "balanzadifital"
+        },
+        {
+            "nombre": "Cortadora FIORE330",
+            "imagen": "cortadora"
+        },
+        {
+            "nombre": "Rebozadora",
+            "imagen": "empanadora"
+        },
+        {
+            "nombre": "Picadora de carne",
+            "imagen": "picadora"
+        }
+    ]   
+}

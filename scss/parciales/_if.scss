@@ -1,0 +1,16 @@
+$modo: claro;
+$theme-color: solid;
+
+
+
+
+@if $modo == claro {
+    $theme-color:black
+    ;
+
+} @else if $modo == oscuro  {
+    $theme-color: blue;
+}
+.if {
+    color: $theme-color
+}

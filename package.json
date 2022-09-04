@@ -1,0 +1,28 @@
+{
+  "name": "final-alvarez",
+  "version": "1.0.0",
+  "description": "entrega final proyecto javascript",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo2645/idea-alvarez.git"
+  },
+  "keywords": [],
+  "author": "Leonardo Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leo2645/idea-alvarez/issues"
+  },
+  "homepage": "https://github.com/leo2645/idea-alvarez#readme",
+  "dependencies": {
+    "@babel/code-frame": "^7.18.6",
+    "@types/normalize-package-data": "^2.4.1",
+    "make-fetch-happen": "^10.2.1",
+    "minimist": "^1.2.6",
+    "promisify": "^0.0.3",
+    "sweetalert": "^2.1.2"
+  }
+}

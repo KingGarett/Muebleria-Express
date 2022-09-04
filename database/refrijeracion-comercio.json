@@ -1,0 +1,36 @@
+{
+    "productos": [
+        {
+            "nombre": "Exhibidora dos puertas",
+            "imagen": "doble"
+        },
+        {
+            "nombre": "M5000",
+            "imagen": "m5000"
+        },        
+        {
+            "nombre": "M4200",
+            "imagen": "m4200"
+        },
+        {
+            "nombre": "M3200",
+            "imagen": "m3200"
+        },
+        {
+            "nombre": "Mostrador",
+            "imagen": "mostrador"
+        },
+        {
+            "nombre": "Freezer 2 tapas",
+            "imagen": "2tapas"
+        },
+        {
+            "nombre": "FR330",
+            "imagen": "330"
+        },
+        {
+            "nombre": "FR270",
+            "imagen": "270"
+        }
+    ]   
+}

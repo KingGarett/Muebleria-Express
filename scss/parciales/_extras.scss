@@ -1,0 +1,105 @@
+.ofertas__destacadas {
+    font-size: 16px;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    background: rgb(2,0,36);
+    width: 55%;
+    margin: auto;
+    margin-top: 20px;
+}
+ 
+
+ 
+.ofertas__centroytexto {
+    justify-content: center;
+    text-align: center;
+}
+
+.precios {
+        color: white;
+        background-color: red;
+        text-align: center;
+        width: fit-content;
+        margin: auto;
+}
+
+.ofertas__imagenes{
+    display: flex;
+    margin: auto;
+    height: 150px;
+    width: 150px;
+    object-fit: contain;
+    padding-top: 15px;
+}
+
+.descuentos {
+    position: absolute;
+    top: 0;
+    left: 20%;
+    padding-top: 5px;
+}
+
+.marcas {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.focus-in-contract-bck {
+	-webkit-animation: focus-in-contract-bck 3s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite both;
+	        animation: focus-in-contract-bck 3s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite both;
+}
+
+ @-webkit-keyframes focus-in-contract-bck {
+    0% {
+      letter-spacing: 1em;
+      -webkit-transform: translateZ(300px);
+              transform: translateZ(300px);
+      -webkit-filter: blur(12px);
+              filter: blur(12px);
+      opacity: 0;
+    }
+    100% {
+      -webkit-transform: translateZ(12px);
+              transform: translateZ(12px);
+      -webkit-filter: blur(0);
+              filter: blur(0);
+      opacity: 1;
+    }
+  }
+  @keyframes focus-in-contract-bck {
+    0% {
+      letter-spacing: 1em;
+      -webkit-transform: translateZ(300px);
+              transform: translateZ(300px);
+      -webkit-filter: blur(12px);
+              filter: blur(12px);
+      opacity: 0;
+    }
+    100% {
+      -webkit-transform: translateZ(12px);
+              transform: translateZ(12px);
+      -webkit-filter: blur(0);
+              filter: blur(0);
+      opacity: 1;
+    }
+  }
+  
+.electrotitulo {
+    text-align: center;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    font-size: 16px;
+}
+
+
+.titulos {
+    font-size: 16px;
+    text-transform: uppercase;
+    text-align: center;
+    width: 50%;
+    color: white;
+    background: rgb(2,0,36);
+    margin: auto;
+    margin-top: 20px;
+  }

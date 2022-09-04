@@ -1,0 +1,373 @@
+   
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.envios{
+        max-width: 50%;
+        max-height: 60px;
+        margin: auto;
+     }
+.h1 {
+        text-align: center;
+        color: rgb(24, 15, 145);
+        font-size: 2rem;
+        padding: 0;
+        margin-top: 1rem;
+}
+
+.if {
+ color: solid;
+}
+
+.hit-the-floor {
+        color: rgb(141, 20, 20);
+        font-size: 2em;
+        font-weight: bold;
+        font-family: Helvetica;
+        text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
+}
+
+
+
+.nav {border-bottom: 1px solid rgba(67, 64, 64, 0.541);
+}
+
+.nav__logo {
+    width: 120px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+
+.ofertas__destacadas {
+    font-size: 16px;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    background: rgb(2,0,36);
+    width: 55%;
+    margin: auto;
+    margin-top: 20px;
+}
+ 
+
+ 
+.ofertas__centroytexto {
+    justify-content: center;
+    text-align: center;
+}
+
+.precios {
+        color: white;
+        background-color: red;
+        text-align: center;
+        width: fit-content;
+        margin: auto;
+}
+
+.ofertas__imagenes{
+    display: flex;
+    margin: auto;
+    height: 150px;
+    width: 150px;
+    object-fit: contain;
+    padding-top: 15px;
+}
+
+.descuentos {
+    position: absolute;
+    top: 0;
+    left: 20%;
+    padding-top: 5px;
+}
+
+.marcas {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.focus-in-contract-bck {
+	-webkit-animation: focus-in-contract-bck 3s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite both;
+	        animation: focus-in-contract-bck 3s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite both;
+}
+
+ @-webkit-keyframes focus-in-contract-bck {
+    0% {
+      letter-spacing: 1em;
+      -webkit-transform: translateZ(300px);
+              transform: translateZ(300px);
+      -webkit-filter: blur(12px);
+              filter: blur(12px);
+      opacity: 0;
+    }
+    100% {
+      -webkit-transform: translateZ(12px);
+              transform: translateZ(12px);
+      -webkit-filter: blur(0);
+              filter: blur(0);
+      opacity: 1;
+    }
+  }
+  @keyframes focus-in-contract-bck {
+    0% {
+      letter-spacing: 1em;
+      -webkit-transform: translateZ(300px);
+              transform: translateZ(300px);
+      -webkit-filter: blur(12px);
+              filter: blur(12px);
+      opacity: 0;
+    }
+    100% {
+      -webkit-transform: translateZ(12px);
+              transform: translateZ(12px);
+      -webkit-filter: blur(0);
+              filter: blur(0);
+      opacity: 1;
+    }
+  }
+  
+.electrotitulo {
+    text-align: center;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    font-size: 16px;
+}
+
+
+.titulos {
+    font-size: 16px;
+    text-transform: uppercase;
+    text-align: center;
+    width: 50%;
+    color: white;
+    background: rgb(2,0,36);
+    margin: auto;
+    margin-top: 20px;
+  }
+ 
+.get-in-touch {
+        max-width: 800px;
+        margin: 50px auto;
+        position: relative; 
+        }
+      
+        .get-in-touch .title {
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        font-size: 1.5em;
+        line-height: 48px;
+        padding-bottom: 48px;
+           color: #5543ca;
+          background: #5543ca;
+          background: -moz-linear-gradient(left,#f4524d  0%,#5543ca 100%) !important;
+          background: -webkit-linear-gradient(left,#f4524d  0%,#5543ca 100%) !important;
+          background: linear-gradient(to right,#f4524d  0%,#5543ca  100%) !important;
+          -webkit-background-clip: text !important;
+          -webkit-text-fill-color: transparent !important;
+      }
+      
+      .contact-form .form-field {
+        position: relative;
+        margin: 32px 0;
+      }
+      .contact-form .input-text {
+        display: block;
+        width: 100%;
+        height: 36px;
+        border-width: 0 0 2px 0;
+        border-color: #5543ca;
+        font-size: 18px;
+        line-height: 26px;
+        font-weight: 400;
+        
+      }
+      .contact-form .input-text:focus {
+        outline: none;
+      }
+      .contact-form .input-text:focus + .label,
+      .contact-form .input-text.not-empty + .label {
+        -webkit-transform: translateY(-24px);
+                transform: translateY(-24px);
+      }
+      .contact-form .label {
+        position: absolute;
+        left: 20px;
+        bottom: 11px;
+        font-size: 18px;
+        line-height: 26px;
+        font-weight: 400;
+        color: #5543ca;
+        cursor: text;
+        transition: -webkit-transform .2s ease-in-out;
+        transition: transform .2s ease-in-out;
+        transition: transform .2s ease-in-out, 
+        -webkit-transform .2s ease-in-out;
+        
+      }
+      .contact-form .submit-btn {
+        display: inline-block;
+        background-color: #000;
+         background-image: linear-gradient(125deg,#a72879,#064497);
+        color: #fff;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-size: 16px;
+        padding: 8px 16px;
+        border: none;
+        width:200px;
+        cursor: pointer;
+      }
+
+    
+      
+      
+     /* MEDIAQUERY*/
+@media (max-width: 1023px) {
+        .envios{
+                max-width: 70%;
+                max-height: 60px;
+                margin: auto;
+             } 
+        .marcas {
+        text-align: center;
+        font-size: 1.5rem;
+         }
+        .h1 {
+        font-size: 2rem;
+}
+.ofertas__destacadas {
+        font-size: 16px;
+
+}
+
+
+.electrotitulo {
+        font-size: 16px;
+}
+
+
+
+
+    .focus-in-contract-bck {
+        -webkit-animation: focus-in-contract-bck 3s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite both;
+                animation: focus-in-contract-bck 3s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite both;
+    }
+    
+     @-webkit-keyframes focus-in-contract-bck {
+        0% {
+          letter-spacing: 1em;
+          -webkit-transform: translateZ(300px);
+                  transform: translateZ(300px);
+          -webkit-filter: blur(12px);
+                  filter: blur(12px);
+          opacity: 0;
+        }
+        100% {
+          -webkit-transform: translateZ(12px);
+                  transform: translateZ(12px);
+          -webkit-filter: blur(0);
+                  filter: blur(0);
+          opacity: 1;
+        }
+      }
+      @keyframes focus-in-contract-bck {
+        0% {
+          letter-spacing: 1em;
+          -webkit-transform: translateZ(300px);
+                  transform: translateZ(300px);
+          -webkit-filter: blur(12px);
+                  filter: blur(12px);
+          opacity: 0;
+        }
+        100% {
+          -webkit-transform: translateZ(12px);
+                  transform: translateZ(12px);
+          -webkit-filter: blur(0);
+                  filter: blur(0);
+          opacity: 1;
+        }
+      }
+      
+}
+
+
+@media (max-width: 600px) {
+        .envios{
+                max-width: 85%;
+                max-height: 40px;
+                margin: auto;
+             } 
+        .marcas {
+        text-align: center;
+        font-size: 1rem;
+    }
+    .h1 {
+            font-size: 1.5rem;
+    }
+    .ofertas__destacadas {
+        font-size: 14px;
+
+}
+
+.electrotitulo {
+        font-size: 14px;
+}
+
+    .focus-in-contract-bck {
+        -webkit-animation: focus-in-contract-bck 3s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite both;
+                animation: focus-in-contract-bck 3s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite both;
+    }
+    
+     @-webkit-keyframes focus-in-contract-bck {
+        0% {
+          letter-spacing: 1em;
+          -webkit-transform: translateZ(300px);
+                  transform: translateZ(300px);
+          -webkit-filter: blur(12px);
+                  filter: blur(12px);
+          opacity: 0;
+        }
+        100% {
+          -webkit-transform: translateZ(12px);
+                  transform: translateZ(12px);
+          -webkit-filter: blur(0);
+                  filter: blur(0);
+          opacity: 1;
+        }
+      }
+      @keyframes focus-in-contract-bck {
+        0% {
+          letter-spacing: 1em;
+          -webkit-transform: translateZ(300px);
+                  transform: translateZ(300px);
+          -webkit-filter: blur(12px);
+                  filter: blur(12px);
+          opacity: 0;
+        }
+        100% {
+          -webkit-transform: translateZ(12px);
+                  transform: translateZ(12px);
+          -webkit-filter: blur(0);
+                  filter: blur(0);
+          opacity: 1;
+        }
+      }
+      .get-in-touch .title {
+              font-size: 1em;
+      }
+      
+}
+
+
+
+
+    
+
+
+

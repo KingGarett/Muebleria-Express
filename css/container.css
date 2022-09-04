@@ -1,0 +1,23 @@
+body{
+    background: rgb(97, 3, 3);
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
+    height: 100vh;
+}
+
+.sup-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+}
+
+.container{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:#fbfbfb;
+    border-radius: 20px;
+}

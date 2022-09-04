@@ -1,0 +1,28 @@
+{
+    "productos": [
+        {
+            "nombre": "Aire airbn",
+            "imagen": "aire"
+        },
+        {
+            "nombre": "Aire Buenos",
+            "imagen": "aire1"
+        },        
+        {
+            "nombre": "Ventilador Garbarino",
+            "imagen": "ventilador"
+        },
+        {
+            "nombre": "Turbo",
+            "imagen": "turbo"
+        },
+        {
+            "nombre": "Calefactor epsilon",
+            "imagen": "calefactor"
+        },
+        {
+            "nombre": "Calefactor Gorrea",
+            "imagen": "calefactor1"
+        }
+    ]   
+}

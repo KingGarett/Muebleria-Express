@@ -1,0 +1,36 @@
+{
+    "productos": [
+        {
+            "nombre": "Bicicleta Enrique",
+            "imagen": "bicicleta"
+        },
+        {
+            "nombre": "Bicicleta Oxea",
+            "imagen": "bicicleta1"
+        },        
+        {
+            "nombre": "Bicicleta Venzo",
+            "imagen": "bicicleta2"
+        },
+        {
+            "nombre": "Bicicleta Viper",
+            "imagen": "bicicleta3"
+        },
+        {
+            "nombre": "Bicicleta Merida",
+            "imagen": "bicicleta"
+        },
+        {
+            "nombre": "Bicicleta Guisi",
+            "imagen": "bicicleta1"
+        },
+        {
+            "nombre": "Bicicleta Mach",
+            "imagen": "bicicleta"
+        },
+        {
+            "nombre": "Bicicleta Rizen",
+            "imagen": "bicicleta3"
+        }
+    ]   
+}

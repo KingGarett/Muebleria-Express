@@ -1,0 +1,36 @@
+{
+    "productos": [
+        {
+            "nombre": "Batidora ULTRACOMB",
+            "imagen": "batidora"
+        },
+        {
+            "nombre": "Cafetera ULTRACOMB",
+            "imagen": "cafetera"
+        },        
+        {
+            "nombre": "Horno",
+            "imagen": "hornoelec"
+        },
+        {
+            "nombre": "Licuadora",
+            "imagen": "licuadora"
+        },
+        {
+            "nombre": "Cocina ULTRACOMB",
+            "imagen": "cocinaultracomb"
+        },
+        {
+            "nombre": "Plancha",
+            "imagen": "plancha"
+        },
+        {
+            "nombre": "tostadora",
+            "imagen": "tostadora"
+        },
+        {
+            "nombre": "Pava ULTRACOMB",
+            "imagen": "pava"
+        }
+    ]   
+}

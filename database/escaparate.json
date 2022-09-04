@@ -1,0 +1,36 @@
+{
+    "productos": [
+        {
+            "nombre": "Estanterias",
+            "imagen": "estanterias"
+        },
+        {
+            "nombre": "Panadero",
+            "imagen": "panadero1"
+        },        
+        {
+            "nombre": "Panadero",
+            "imagen": "panadero2"
+        },
+        {
+            "nombre": "Termoselladora",
+            "imagen":"termoselladora"
+        },
+        {
+            "nombre": "Termoselladora",
+            "imagen": "termoselladora1"
+        },
+        {
+            "nombre": "Cartel LED",
+            "imagen": "cartelled"
+        },
+        {
+            "nombre": "Sobadora",
+            "imagen": "sobadora"
+        },
+        {
+            "nombre": "Rebozadora",
+            "imagen": "empanadora"
+        }
+    ]   
+}

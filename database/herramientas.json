@@ -1,0 +1,36 @@
+{
+    "productos": [
+        {
+            "nombre": "Kit maletin",
+            "imagen": "herramientas"
+        },
+        {
+            "nombre": "Taladro",
+            "imagen": "taladro"
+        },        
+        {
+            "nombre": "Sierra circular",
+            "imagen": "cicular"
+        },
+        {
+            "nombre": "Turbo",
+            "imagen":"turbo"
+        },
+        {
+            "nombre": "Caladora",
+            "imagen": "caladora"
+        },
+        {
+            "nombre": "Soldadora",
+            "imagen": "soldadora"
+        },
+        {
+            "nombre": "Sillas familia",
+            "imagen": "sillas"
+        },
+        {
+            "nombre": "Sillas MalBras",
+            "imagen": "sillas1"
+        }
+    ]   
+}

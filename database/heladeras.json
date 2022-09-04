@@ -1,0 +1,36 @@
+{
+    "productos": [
+        {
+            "nombre": "Heladera Gamma",
+            "imagen": "heladera"
+        },
+        {
+            "nombre": "Heladera samsung",
+            "imagen": "heladera1"
+        },        
+        {
+            "nombre": "Heladera cold420",
+            "imagen": "heladera2"
+        },
+        {
+            "nombre": "Heladera Tech47",
+            "imagen": "heladera3"
+        },
+        {
+            "nombre": "Heladera Pascuati",
+            "imagen": "heladera4"
+        },
+        {
+            "nombre": "Frigobar cus",
+            "imagen": "frigobar"
+        },
+        {
+            "nombre": "Frigobar Nesttle",
+            "imagen": "frigobar1"
+        },
+        {
+            "nombre": "Frigobar Pureza",
+            "imagen": "frigobar2"
+        }
+    ]   
+}

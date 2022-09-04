@@ -1,0 +1,93 @@
+     .section-contacto .form-contacto section {
+
+      background: -moz-linear-gradient(top,  rgba(206,219,233,1) 0%, rgba(170,197,222,1) 17%, rgba(97,153,199,1) 50%, rgba(58,132,195,1) 51%, rgba(65,154,214,1) 59%, rgba(75,184,240,1) 71%, rgba(58,139,194,1) 84%, rgba(38,85,139,1) 100%); /* FF3.6-15 */
+      background: -webkit-linear-gradient(top,  rgba(206,219,233,1) 0%,rgba(170,197,222,1) 17%,rgba(97,153,199,1) 50%,rgba(58,132,195,1) 51%,rgba(65,154,214,1) 59%,rgba(75,184,240,1) 71%,rgba(58,139,194,1) 84%,rgba(38,85,139,1) 100%); /* Chrome10-25,Safari5.1-6 */
+      background: linear-gradient(to bottom,  rgba(206,219,233,1) 0%,rgba(170,197,222,1) 17%,rgba(97,153,199,1) 50%,rgba(58,132,195,1) 51%,rgba(65,154,214,1) 59%,rgba(75,184,240,1) 71%,rgba(58,139,194,1) 84%,rgba(38,85,139,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedbe9', endColorstr='#26558b',GradientType=0 ); /* IE6-9 */
+      padding: 40px;
+      border-radius: 10px;
+      width: 50%;
+      margin: auto;
+      margin-top: 20px; }
+      
+     .section-contacto .form-contacto section form {
+        display: flex;
+        flex-direction: column; }
+      .section-contacto .form-contacto section form .error {
+          display: none;
+          color: #d11e1e;
+          font-size: 1rem; }
+      .section-contacto .form-contacto section form h2 {
+          margin-bottom: 30px;
+          font-weight: bold;
+          text-align: center;
+          font-size: 1.5rem; }
+      .section-contacto .form-contacto section form label,
+      .section-contacto .form-contacto section form div {
+          margin: 5px 0px 5px 0px;
+          font-size: 1.1rem; }
+       .botones {
+            width: 50%;
+            margin: auto;
+            background-color:lavender;
+            }
+     
+       @media only screen and (min-device-width: 600px) and (max-device-width: 1023px) {
+            .section-contacto .form-contacto section {
+                
+                
+        background: -moz-linear-gradient(top,  rgba(206,219,233,1) 0%, rgba(170,197,222,1) 17%, rgba(9153,199,1) 50%, rgba(58,132,195,1) 51%, rgba(65,154,214,1) 59%, rgba(75,184,240,1) 71%, rgba(5139,194,1) 84%, rgba(38,85,139,1) 100%); /* FF3.6-15 */
+        background: -webkit-linear-gradient(top,  rgba(206,219,233,1) 0%,rgba(170,197,222,1) 17%,rgba(9153,199,1) 50%,rgba(58,132,195,1) 51%,rgba(65,154,214,1) 59%,rgba(75,184,240,1) 71%,rgba(58,139,194,1) 84%,rgba(38,85,139,1) 100%); /* Chrome10-25,Safari5.1-6 */
+        background: linear-gradient(to bottom,  rgba(206,219,233,1) 0%,rgba(170,197,222,1) 17%,rgba(97,153,199,1) 50%,rgba(58,132,195,1) 51%,rgba(65,154,214,1) 59%,rgba(75,184,240,1) 71%,rgba(58,139,194,1) 84%,rgba(38,85,139,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedbe9', endColorstr='#26558b',GradientType=0 ); /* IE6-9 */
+
+        padding: 40px;
+        border-radius: 10px;
+        width: 90%; }
+        .section-contacto .form-contacto section form {
+                  display: flex;
+                  flex-direction: column; }
+                  .section-contacto .form-contacto section form .error {
+                    display: none;
+                    color: #d11e1e;
+                    font-size: 1rem; }
+                  .section-contacto .form-contacto section form h2 {
+                    margin-bottom: 30px;
+                    font-weight: bold;
+                    text-align: center;
+                    font-size: 1.5rem; }
+                  .section-contacto .form-contacto section form label,
+                  .section-contacto .form-contacto section form div {
+                    margin: 5px 0px 5px 0px;
+                    font-size: 1.1rem; }
+                  }
+                 
+          @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+            .section-contacto .form-contacto section{
+
+              background: -moz-linear-gradient(top,  rgba(206,219,233,1) 0%, rgba(170,197,222,1) 17%, rgba(97,153,199,1) 50%, rgba(58,132,195,1) 51%, rgba(65,154,214,1) 59%, rgba(75,184,240,1) 71%, rgba(58,139,194,1) 84%, rgba(38,85,139,1) 100%); /* FF3.6-15 */
+              background: -webkit-linear-gradient(top,  rgba(206,219,233,1) 0%,rgba(170,197,222,1) 17%,rgba(97,153,199,1) 50%,rgba(58,132,195,1) 51%,rgba(65,154,214,1) 59%,rgba(75,184,240,1) 71%,rgba(58,139,194,1) 84%,rgba(38,85,139,1) 100%); /* Chrome10-25,Safari5.1-6 */
+              background: linear-gradient(to bottom,  rgba(206,219,233,1) 0%,rgba(170,197,222,1) 17%,rgba(97,153,199,1) 50%,rgba(58,132,195,1) 51%,rgba(65,154,214,1) 59%,rgba(75,184,240,1) 71%,rgba(58,139,194,1) 84%,rgba(38,85,139,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+              filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedbe9', endColorstr='#26558b',GradientType=0 ); /* IE6-9 */
+              width: 90%;
+                margin-left: auto;
+                margin-right: auto;
+                display: flex;
+                flex-direction: column; }
+                .section-contacto .div-contacto {
+                  margin-top: 0px;
+                  justify-content: center; }
+                  .section-contacto .div-contacto div {
+                    margin-top: 20px;
+                    margin-bottom: 20px; }
+                .section-contacto .form-contacto {
+                  margin-top: 50px; }
+                  .section-contacto .form-contacto section {
+                    width: 90%;
+                    margin-left: auto;
+                    margin-right: auto;
+                    padding: 20px; }
+                  }
+       
+
+    

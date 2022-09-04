@@ -1,0 +1,36 @@
+{
+    "productos": [
+        {
+            "nombre": "Horno multiple",
+            "imagen": "hornomultiple1"
+        },
+        {
+            "nombre": "Horno pizzero",
+            "imagen": "hornopizzero1"
+        },        
+        {
+            "nombre": "Freidora doble",
+            "imagen": "freidoradoble"
+        },
+        {
+            "nombre": "Freidora",
+            "imagen": "freidora1"
+        },
+        {
+            "nombre": "Amasadora",
+            "imagen": "amasadora"
+        },
+        {
+            "nombre": "Ralladora de pan",
+            "imagen": "ralladora"
+        },
+        {
+            "nombre": "Sobadora",
+            "imagen": "sobadora"
+        },
+        {
+            "nombre": "Rebozadora",
+            "imagen": "empanadora"
+        }
+    ]   
+}

@@ -1,0 +1,64 @@
+{
+    "productos": [
+        {
+            "nombre": "Exhibidora Briket M4300",
+            "imagen": "exhibidoravertical",
+            "precio": 120000,
+            "id":1
+        },
+        {
+            "nombre": "Horno multiple 4 hornallas",
+            "imagen": "hornomultiple",
+            "precio": 45000,
+            "id":2
+        },        
+        {
+            "nombre": "Freezer 2 tapas  briket 400L",
+            "imagen": "freezer",
+            "precio": 95000,
+            "id":3
+        },
+        {
+            "nombre": "Balanza digital con torre",
+            "imagen": "balanza",
+            "precio": 30000,
+            "id":4
+        },
+        {
+            "nombre": "Batidora planetaria ATMA",
+            "imagen": "batidora",
+            "precio": 18000,
+            "id":5
+        },
+        {
+            "nombre": "Horno electrico 45L ATMA",
+            "imagen": "hornoelec",
+            "precio": 32000,
+            "id":6
+        },
+        {
+            "nombre": "Licuadora profesional PEABODY",
+            "imagen": "licuadora",
+            "precio": 19000,
+            "id":7
+        },
+        {
+            "nombre": "Bicileta con canasto dama",
+            "imagen": "bicicleta",
+            "precio": 45000,
+            "id":8
+        },
+        {
+            "nombre": "Colchon 2 plazas alta densidad",
+            "imagen": "colchon",
+            "precio": 35000,
+            "id":9
+        },
+        {
+            "nombre": "Juego de mesa y 6 sillas",
+            "imagen": "mesaysillas",
+            "precio": 55000,
+            "id":10
+        }
+    ]   
+}

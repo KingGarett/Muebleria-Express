@@ -1,0 +1,36 @@
+{
+    "productos": [
+        {
+            "nombre": "Noblex 32",
+            "imagen": "noblex50"
+        },
+        {
+            "nombre": "Noblex 50",
+            "imagen": "noblex50"
+        },        
+        {
+            "nombre": "Samsung A03",
+            "imagen": "a03"
+        },
+        {
+            "nombre": "Samsung M12",
+            "imagen": "m12"
+        },
+        {
+            "nombre": "Motorola",
+            "imagen": "motorola"
+        },
+        {
+            "nombre": "Parlante",
+            "imagen": "parlante1"
+        },
+        {
+            "nombre": "parlante",
+            "imagen": "parlante2"
+        },
+        {
+            "nombre": "SAMSUNG A07",
+            "imagen": "a03"
+        }
+    ]   
+}
