@@ -19,7 +19,7 @@ async function agregarProduct(categoria,json) {
     productosContainer.innerHTML = productos
 }
 
-agregarProduct('[data-tv-audio]','../../database/tv-audio.json')
-agregarProduct('[data-small]','../../database/small.json')
-agregarProduct('[data-heladeras]','../../database/heladeras.json')
-agregarProduct('[data-ventilacion]','../../database/ventilacion.json')
+agregarProduct('[data-tv-audio]','./../../database/tv-audio.json')
+agregarProduct('[data-small]','./../../database/small.json')
+agregarProduct('[data-heladeras]','./../../database/heladeras.json')
+agregarProduct('[data-ventilacion]','./../../database/ventilacion.json')

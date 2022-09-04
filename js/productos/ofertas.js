@@ -1,7 +1,7 @@
 import {importarProductos} from '../services.js'
 
 async function agregarProduct() {
-    const objects = await importarProductos('../../database/ofertas.json')
+    const objects = await importarProductos('./../../database/ofertas.json')
     const productosContainer = document.querySelector('.products')
     let productos = ''
 
