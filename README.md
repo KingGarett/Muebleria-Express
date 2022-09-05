@@ -11,13 +11,6 @@
    - Crear la estructura de los productos
    - La utilizacion de fetch para realizar la llamada a la base de datos de los productos
    - La confeccion del Session Storage, para mantener la informacion del carrito de compras al desplasarnos de pagina
-   
-   Para superar este proyecto se requirio: <br>
-
-- HTML y CSS;
-- JavaScript;
-- Figma;
-- Trello; 
-- Publicar y usar git / github. <br> 
+ 
 
 Resultado click en este [link](https://starlit-llama-3dd48b.netlify.app/)
